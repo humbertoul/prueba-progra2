@@ -4,5 +4,3 @@ Proyecto de Prueba para aprender GitHub
 
 Nombres:
 Kevin Conejo 
-
-Humberto Barrantes
